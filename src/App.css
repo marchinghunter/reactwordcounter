@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+/* .container{
+  width: 65%;
+}
+.form-control{
+  height: 400px;
+}
+.heading{
+  text-align: center;
+}
+.navbar-brand{
+  color: white;
+  font-size: 30px;
+}
+.navbar-brand:hover{
+  color: white;
+  font-size: 30px;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: repeat(11, 1fr);
+  }
+  .counted{
+    color: white;
+    font-size: 30px;
+    grid-column-start: 9;
+    grid-column-end: 12;
+  } */
+  .body{
+    background-color: #222426;
+  }
+  .container{
+    width: 65%;
+  }
+  .form-control{
+    height: 400px;
+  }
+  .heading{
+    text-align: center;
+  }
+  .navbar-brand{
+    color: white;
+    font-size: 30px;
+  }
+  .navbar-brand:hover{
+    color: white;
+    font-size: 30px;
+  }
+  
+  .navbar {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    }
+    .counted{
+      color: white;
+      font-size: 30px;
+      grid-column-start: 9;
+      grid-column-end: 12;
+    }
+    .bi{
+      font-size: 25px;
+    }
